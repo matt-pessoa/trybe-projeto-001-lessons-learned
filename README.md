@@ -1,4 +1,5 @@
 # Projeto #001 - Lessons Learned
+### 03/08/2021
 
 Esta é a minha resolução do primeiro projeto do módulo de Fundamentos da Trybe, ao final fui capaz de:
 
